@@ -7,7 +7,7 @@
 
 **Dataset:** We'll use the "Boston Housing Dataset" from the UCI Machine Learning Repository. This dataset contains information about housing in Boston, including features such as the number of rooms, age of the house, and crime rate, along with the target variable, which is the median value of owner-occupied homes.
 
-### Project Structure:
+### Project Structure: 
 
 - Data Exploration and Preprocessing
 - Model Building and Training
