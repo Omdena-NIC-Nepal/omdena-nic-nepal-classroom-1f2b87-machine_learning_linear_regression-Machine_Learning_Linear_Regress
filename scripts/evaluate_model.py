@@ -70,7 +70,7 @@ def evaluate_linear_regression_model(data_folder, model_folder):
                 "cv_score": cv_score
             })
     df_eval = pd.DataFrame(evaluation_results)
-    print(df_eval)
+    print(df_eval.round(4))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
