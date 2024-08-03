@@ -1,0 +1,11 @@
+*.pyc
+*.pkl
+data/x_train.csv
+data/x_test.csv
+data/y_train.csv
+data/y_test.csv
+data/x_train1.csv
+data/x_test1.csv
+data/y_train1.csv
+data/y_test1.csv
+
